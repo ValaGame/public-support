@@ -1,4 +1,4 @@
-![Support public ValaGames](https://cdn.discordapp.com/attachments/1071041684458197052/1071041718612414524/Support_Public.png)
+![Support public ValaGames](https://cdn.discordapp.com/attachments/1071041684458197052/1071056901493768262/support-valagames-frame-github.png)
 # Espace de support technique public de ValaGames
 
 > Lorsque vous rencontrez un problème technique au sein de notre infrastructure, sur quelconque plateforme, nous vous invitons à signaler ce problème ici.
